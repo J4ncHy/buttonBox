@@ -1,6 +1,6 @@
 import vgamepad as vg
 import time
-imort serial
+imort serial 
 
 
 ser = serial.Serial("COM"+input(">>"), 9600)
